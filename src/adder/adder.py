@@ -6,3 +6,5 @@ class Adder(object):
 
     def multiply(self, x, y):
         return x * y
+
+    
